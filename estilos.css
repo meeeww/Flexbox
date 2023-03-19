@@ -1,0 +1,30 @@
+.flexbox {
+    display: flex;
+    gap: 3px;
+}
+
+.caja1 {
+    background-color: rgb(140, 184, 169);
+    color: rgb(140, 184, 169);
+}
+
+.caja2 {
+    background-color: rgb(243, 93, 93);
+    color: rgb(243, 93, 93);
+}
+
+.caja3 {
+    background-color: rgb(235, 233, 131);
+    color: rgb(235, 233, 131);
+}
+
+.caja4 {
+    background-color: rgb(140, 184, 169);
+    color: rgb(140, 184, 169);
+    height: 100px;
+}
+
+#cajita{
+    height: 700px;
+    width: 10%;
+}
